@@ -1,0 +1,13 @@
+#main {
+
+
+  width: 1160px;
+  height: 792px;
+  border-radius: 50px;
+  background: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+

@@ -1,0 +1,29 @@
+#left{
+  padding: 34px 51px;
+  border-radius: 50px 0px 0px 50px;
+  background: rgb(8, 75, 62);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+}
+#logo{
+  width: 171.48px;
+  height: 94.462px;
+  flex-shrink: 0;
+  
+}
+
+
+
+#content{
+  
+    color: rgb(249, 226, 186);
+    font-size: 39px;
+    font-style: normal;
+    line-height: 45px;
+    max-width: 350px;
+    font-weight: 500;
+ 
+}
+
