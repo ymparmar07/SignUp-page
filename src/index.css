@@ -7,7 +7,7 @@
 
   }
 body{
-      box-sizing: border-box;
+    box-sizing: border-box;
     font-family: "gilory";
     font-weight: 500;
     margin: 0;
@@ -18,7 +18,7 @@ body{
   margin: auto;
   background-image: url(/Background.png);
   display: flex;
-  flex-direction: row;
+  flex-direction: row;  
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
